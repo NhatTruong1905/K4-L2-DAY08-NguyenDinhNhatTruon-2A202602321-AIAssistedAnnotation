@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe phía trước ở khoảng cách xa,added,AI bỏ sót xe ở xa chỉ thấy đèn đỏ nên vẽ thêm box ôm thân xe
+1,frame_0107.jpg,vệt sáng phản chiếu giữa đường,deleted,Không phải xe mà là ánh đèn phản chiếu trên mặt đường nên xóa khung
+1,frame_0187.jpg,xe sát mép phải màn hình,edited,Khung AI vẽ thiếu chiều cao nên kéo chỉnh lại cho ôm sát thân xe
